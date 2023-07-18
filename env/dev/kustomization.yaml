@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/haimb-rapyd/demo-app
-  newTag: latest
+  newTag: 916bd01fd98e17f39fc5ef6403d4258b4e1a5ab6
