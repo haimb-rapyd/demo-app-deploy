@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/haimb-rapyd/demo-app
+  newTag: 9e3e457c5ac21269f0a47ef85200b2769bad0104
